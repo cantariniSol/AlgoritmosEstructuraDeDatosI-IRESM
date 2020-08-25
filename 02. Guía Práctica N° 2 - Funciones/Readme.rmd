@@ -1,0 +1,13 @@
+Dentro del directorio crear dos archivos: principal.py y funciones.py
+
+1. En el archivo funciones.py crear los siguientes métodos:
+
+*Método sin retorno y sin parámetros que permita escribir un algoritmo que lea un número entero y verifique si es mayor a 10. Si lo es escribir el número y si no lo es escribir un mensaje que diga que el número es menor o igual
+
+*Metodo sin retorno  con parámetros que reciba 3 números, y determine si la suma del primero y el segundo es igual al tercero. Si se cumple, escribir "La suma es igual al tercero", si no, escribir "La suma es distinta al tercero".
+
+*Método con retorno y con parámetros que cuando recibe dos número enteros, calcule el resultado de dividir el cuadrado del mayor de ellos y el cuadrado del menor de ellos. Si los números son iguales retornar el número 1
+
+*Método con retorno y sin parámetros que que convierta temperaturas de Fahrenheit a Celcius. Utilizar la fórmula ºC = (5/9)·(ºF – 32).
+
+2. En el archivo principal.py crear una función llamada menú que mediante un menú de opciones llame a los métodos creados en el inciso 1.
