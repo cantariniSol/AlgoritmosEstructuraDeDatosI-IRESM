@@ -1,0 +1,23 @@
+Homework Class 2 - August 14th, 2020.
+
+1) Escribir un algoritmo que lea un número entero y verifique si es mayor a 10. Si lo es
+escribir el número y si no lo es escribir un mensaje que diga que el número es menor o
+igual.
+
+
+2) Dados dos número enteros, se necesita saber el resultado de dividir el cuadrado del
+mayor de ellos y el cuadrado del menor de ellos. Si los números son iguales escribir un
+mensaje.
+
+
+3) Escribir un algoritmo que convierta temperaturas de Fahrenheit a Celcius. Utilizar la
+fórmula ºC = (5/9)·(ºF – 32).
+
+
+4) Determinar si un número ingresado es: negativo, cero o positivo e imprimir, de
+acuerdo a cada caso, el mensaje correspondiente.
+
+
+5) Dados 3 números, determinar si la suma del primero y el segundo es igual al tercero.
+Si se cumple, escribir &quot;La suma es igual al tercero&quot;, si no, escribir &quot;La suma es distinta
+al tercero&quot;.
