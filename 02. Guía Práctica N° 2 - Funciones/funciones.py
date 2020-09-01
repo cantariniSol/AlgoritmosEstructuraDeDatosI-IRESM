@@ -18,7 +18,7 @@ def dividirCuadrado(num1=1, num2=1):
     menor = 0
 
     if (num1 == num2):
-        return str("Los numeros ingresados son iguales")
+        return str("Los numeros ingresados son iguales") # Esta linea solo debe retornar el numero 1
     elif (num1 >  num2):
         mayor = num1
         menor = num2
@@ -27,7 +27,7 @@ def dividirCuadrado(num1=1, num2=1):
         menor = num1
 
     div = int((mayor * mayor) / (menor * menor))
-    return str(f"El resultado es: {div}")
+    return str(f"El resultado es: {div}") # Esta linea solo debe retornar la variable div
 
 def celcius():
     f = int(input("Ingrese la temperatura en fahrenheit: "))
