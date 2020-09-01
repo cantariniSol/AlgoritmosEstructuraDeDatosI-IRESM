@@ -23,7 +23,7 @@ def dividirCuadrado(num1, num2):
 
 
     div = (mayor * mayor) / (menor * menor)
-    print(f'El resultado es: {div}')
+    print(f'El resultado es: {div}') # Si los numeros son iguales va a imprimir los dos mensajes: 'Los numeros ingresados son iguales.' y 'El resultado es: 1'
 
 dividirCuadrado(9, 3)
 
